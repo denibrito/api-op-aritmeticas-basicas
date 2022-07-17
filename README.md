@@ -1,7 +1,7 @@
 # Aritmética Básica 
 API Rest desenvolvida para retornar operações básicas de aritmética.
 
-Exemplo de requisição [**SOMA 1 + 1**](https://api-op-aritmeticas-basicas.vercel.app/soma/1/1).
+Exemplo de requisição [**SOMA 1 + 1**](https://api-op-aritmeticas-basicas.vercel.app/api/soma/1/1).
 ## Informações do projeto:
 > - Quatro operações básicas de aritmética
 >   - Soma
