@@ -1,7 +1,7 @@
-# Aritmética Básica 
+# Aritmética Básica 📝
 API Rest desenvolvida para retornar operações básicas de aritmética.
 
-Exemplo de requisição [**SOMA 1 + 1**](https://api-op-aritmeticas-basicas.vercel.app/api/soma/1/1).
+Exemplo de requisição [**NESTE LINK**](https://api-op-aritmeticas-basicas.vercel.app/api/soma/1/1).
 ## Informações do projeto:
 > - Quatro operações básicas de aritmética
 >   - Soma
@@ -9,10 +9,30 @@ Exemplo de requisição [**SOMA 1 + 1**](https://api-op-aritmeticas-basicas.verc
 >   - Multiplicação
 >   - Divisão
 
+## Como utilizar
+
+Utilize o método GET passando a operação e os números desejados na operação através da URL/ EndPoint.
+
+```bash
+# EndPoint
+url: /api/:operacao/:numero1/:numero2
+
+# Exemplo de solicitação
+url: /api/multiplicacao/35/49
+
+# Exeplo de resposta
+{
+	"mensagem": "Operação de multiplicacao solicitada",
+	"numero1": 35,
+	"numero2": 49,
+	"resultado": 1715
+}
+```
+
 
 ## Melhorias a serem aplicadas:
 > Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
-- 🔄 Adicionar método de requisição POST.
+- 🔄 Adicionar método POST.
 
 ## Linguagens utilizadas:
 <a href="https://www.typescriptlang.org/">
