@@ -35,6 +35,9 @@ url: /api/multiplicacao/35/49
 - 🔄 Adicionar método POST.
 
 ## Linguagens utilizadas:
+<a href="#">
+ <img align="left" width="40px" src="https://img.shields.io/badge/-241F31?logo=next.js" alt="DenilsonBrito-NextJS" />
+</a>
 <a href="https://www.typescriptlang.org/">
  <img align="left" width="40px" src="https://img.shields.io/badge/-241F31?logo=typescript" alt="DenilsonBrito-TypeScript" />
 </a>
