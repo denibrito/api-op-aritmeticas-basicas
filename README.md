@@ -1,7 +1,7 @@
 # Aritmética Básica 
 API Rest desenvolvida para retornar operações básicas de aritmética.
 
-Para testar acesse [**ESTE LINK**](https://simulador-partida-futebol.herokuapp.com/).
+Exemplo de requisição [**SOMA 1 + 1**](https://api-op-aritmeticas-basicas.vercel.app/soma/1/1).
 ## Informações do projeto:
 > - Quatro operações básicas de aritmética
 >   - Soma

@@ -4,7 +4,7 @@ export default function Index() {
   
   return (
     <div>
-        Acesse a documentação para usar esta API.
+        Acesse a <Link href="https://github.com/denibrito/api-op-aritmeticas-basicas"><a>documentação</a></Link> para usar esta API.
     </div>
   )
 }
