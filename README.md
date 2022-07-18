@@ -20,7 +20,7 @@ url: /api/:operacao/:numero1/:numero2
 # Exemplo de solicitação
 url: /api/multiplicacao/35/49
 
-# Exeplo de resposta
+# Exemplo de resposta
 {
 	"mensagem": "Operação de multiplicacao solicitada",
 	"numero1": 35,
