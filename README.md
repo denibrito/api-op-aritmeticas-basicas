@@ -28,14 +28,7 @@ url: /api/multiplicacao/35/49
 	"resultado": 1715
 }
 ```
-
-<<<<<<< HEAD
-
-## Melhorias a serem aplicadas:
-> Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
-- 🔄 Adicionar método POST.
-=======
-Utilize o método GET passando a operação e os números desejados na operação através da URL/ EndPoint.
+Utilize o método POST passando a operação e os números desejados na operação através da URL/ EndPoint.
 
 ```bash
 # EndPoint
@@ -62,7 +55,6 @@ url: /api/resultado
 ## Melhorias a serem aplicadas:
 > Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
 - ✔️ Adicionar método POST.
->>>>>>> 85e5e04 (Inclusão do método POST)
 
 ## Linguagens utilizadas:
 <a href="#">
