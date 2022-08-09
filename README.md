@@ -29,10 +29,40 @@ url: /api/multiplicacao/35/49
 }
 ```
 
+<<<<<<< HEAD
 
 ## Melhorias a serem aplicadas:
 > Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
 - 🔄 Adicionar método POST.
+=======
+Utilize o método GET passando a operação e os números desejados na operação através da URL/ EndPoint.
+
+```bash
+# EndPoint
+url: /api/resultado
+
+# Exemplo de requisição
+{
+	"operacao": "soma",
+	"num1": 35,
+	"num2": 49
+}
+```
+```bash
+# Exemplo de resposta
+{
+	"mensagem": "Operação de soma solicitada",
+	"numero1": 35,
+	"numero2": 49,
+	"resultado": 84
+}
+```
+
+
+## Melhorias a serem aplicadas:
+> Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
+- ✔️ Adicionar método POST.
+>>>>>>> 85e5e04 (Inclusão do método POST)
 
 ## Linguagens utilizadas:
 <a href="#">
